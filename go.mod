@@ -3,7 +3,7 @@ module github.com/xmidt-org/device-scheduler
 go 1.20
 
 require (
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/ugorji/go/codec v1.2.12
 )
 
