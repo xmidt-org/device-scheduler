@@ -1,10 +1,10 @@
 module github.com/xmidt-org/device-scheduler
 
-go 1.20
+go 1.21
 
 require (
 	github.com/stretchr/testify v1.10.0
-	github.com/ugorji/go/codec v1.2.14
+	github.com/ugorji/go/codec v1.3.0
 )
 
 require (
