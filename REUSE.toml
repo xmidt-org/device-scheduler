@@ -46,6 +46,18 @@ SPDX-FileCopyrightText = "2023 Comcast Cable Communications Management, LLC"
 SPDX-License-Identifier = "Apache-2.0"
 
 [[annotations]]
+path = "NOTICE"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2023 Comcast Cable Communications Management, LLC"
+SPDX-License-Identifier = "Apache-2.0"
+
+[[annotations]]
+path = "AUTHORS"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2023 Comcast Cable Communications Management, LLC"
+SPDX-License-Identifier = "Apache-2.0"
+
+[[annotations]]
 path = ".whitesource"
 precedence = "aggregate"
 SPDX-FileCopyrightText = "2023 Comcast Cable Communications Management, LLC"
